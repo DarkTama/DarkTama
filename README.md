@@ -1,11 +1,14 @@
 ### Tama / @DarkTama
 
-Building desktop tools and web apps that solve everyday friction.
+Backend engineer by day (Spring Boot). Building native desktop tools and system utilities by night.
 
-#### Stuff built
-- [Kecilin](https://github.com/DarkTama/Kecilin) - Lightweight Tauri GUI for WhatsApp video batch compression (FFmpeg H.264).
-- [Anyleap](https://github.com/DarkTama/Anyleap) - Desktop GUI for wireless Android screen mirroring via scrcpy.
-- [BagiAdil](https://github.com/DarkTama/BagiAdil) - Receipt OCR bill splitter for GoFood/ShopeeFood.
+#### Projects & Work
+- [openterm](https://github.com/rzkfyn/openterm) - Core contributor. Terminal emulator with Windows Hello auth and TPM recovery.
+- [Kecilin](https://github.com/DarkTama/Kecilin) - Desktop batch video compressor for WhatsApp (FFmpeg H.264).
+- [Anyleap](https://github.com/DarkTama/Anyleap) - Wireless Android screen mirror and control via scrcpy.
+- [BagiAdil](https://github.com/DarkTama/BagiAdil) - Client-side receipt OCR bill splitter.
 
 #### Stack
-TypeScript, Rust / Tauri, Web APIs.
+- **Backend:** Java, Spring Boot, REST APIs
+- **Desktop & Native:** Rust, Tauri, Windows APIs (WinRT/COM), FFmpeg
+- **Frontend / Scripting:** TypeScript, JavaScript
