@@ -1,14 +1,11 @@
-Hi, I’m @DarkTama
-I’ve always interested in taking part in game development
-I’m currently learning programming, way from the basic
+### Tama / @DarkTama
 
-I graduated from Programmer Major Highschool, but then decided to steer my CAReer a turn
-that was a grave and the worst mistake i ever did
-I hope i can get back to this career i once dream to be.
+Building desktop tools and web apps that solve everyday friction.
 
-You can reach me by browsing DarkTama on some media social like Facebook or Instagram
+#### Stuff built
+- [Kecilin](https://github.com/DarkTama/Kecilin) - Lightweight Tauri GUI for WhatsApp video batch compression (FFmpeg H.264).
+- [Anyleap](https://github.com/DarkTama/Anyleap) - Desktop GUI for wireless Android screen mirroring via scrcpy.
+- [BagiAdil](https://github.com/DarkTama/BagiAdil) - Receipt OCR bill splitter for GoFood/ShopeeFood.
 
-<!---
-DarkTama/DarkTama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Stack
+TypeScript, Rust / Tauri, Web APIs.
